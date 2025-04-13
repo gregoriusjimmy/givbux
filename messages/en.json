@@ -1,0 +1,121 @@
+{
+  "home": {
+    "grab_text": "Hotel stay bonus for early investors",
+    "main_text":"Invest in the Future of Reward-Based Payments",
+    "sub_text":"Get in early on a company turning every transaction into income.",
+    "take_a_look_at_the_app" :"Take A Look At The App Before You Invest",
+    "form_title1":"Tell Us About Yourself &",
+    "form_title2":"Unlock Your Free Hotel Stay!",
+    "what_is_your_name":"What’s your name?",
+    "full_name":"Full Name",
+    "email_address":"Email Address",
+    "example_email":"Eg: info@mail.com",
+    "phone_number":"Phone Number",
+    "example_phone_number":"Eg: 0123 456 789",
+    "i_have_downloaded_the_giv_bux_app":"I’ve downloaded the Giv Bux app",
+    "get_my_bonus_and_updates":"Get My Bonus & Updates"
+  },
+  "partners":{
+"our_media_partner":"Our Media Partner"
+  },
+  "benefits":{
+"key_benefits":"Key Benefits",
+"title1":"Earn Cashback Automatically",
+"content1":"Every time you make a purchase, get cashback deposited directly into your account—no extra steps needed!",
+"cta1":"Start Earning Now ➔",
+"title2":"Build Passive Income Through Referrals",
+"content2":"Invite friends and earn a commission on their transactions. The more you refer, the more you earn—effortlessly!",
+"cta2":"Refer & Earn ➔",
+"title3":"Invest Early. Grow With Us.",
+"content3":"Start small and watch your investments grow over time. Secure your financial future today.",
+"cta3":"Start Investing ➔"
+  },
+  "claim_bonus":{
+    "get_a_free_hotel_stay_bonus":"Get a FREE Hotel Stay Bonus",
+    "free_hotel":"FREE Hotel",
+    "get_a":"Get a",
+    "stay_bonus":"Stay Bonus",
+    "price_bonus":"($500–$1500 Value)",
+    "info":"When you provide your info/ download the app and/or invest",
+    "offer_ends_in":"Offer ends in",
+    "invest_in_the_stock":"Invest in the stock",
+    "claim_my_bonus":"Claim My Bonus"
+  },
+  "how_it_works":{
+    "how_it_works":"How It Works",
+    "sub":"Follow these three simple steps to start earning and growing your wealth.",
+    "title1":"Shop at Top Retailers",
+    "content1":"Discover a world of shopping opportunities with access to top brands and exclusive deals. Whether you're buying essentials or treating yourself, your purchases work for you.",
+    "title2":"Earn and Share Cashback",
+    "content2":"Every time you make a purchase, a portion of your spending returns to you as cashback. Take it further by sharing with friends and earning commissions on their transactions.",
+    "title3":"Invest and Build Long-Term Income",
+    "content3":"Turn your cashback and referral earnings into a wealth-building strategy. Invest in financial growth opportunities and enjoy sustainable, long-term income."
+  },
+  "cta_buttons":{
+    "download_the_app":"Download the app",
+    "download_now":"Download Now",
+    "invest_in_the_stock":"Invest in the stock",
+    "start_earning":"Start Earning"
+  },
+  "join_wa":{
+    "main":"Don’t Go It Alone—Join the Giv Bux Insider Group",
+    "sub":"Network with other investors, stay ahead of updates, and get exclusive tips.",
+    "givbux_investor_hub":"GivBux Investor Hub",
+    "join_whatsapp":"Join Whatsapp",
+    "dont_do_it_alone":"Don’t Do It Alone",
+    "join_givbux_insider_group":"—Join the Giv Bux Insider Group"
+  },
+  "chart":{
+    "over":"Over",
+    "count":"250,000",
+    "users_earning_cashback_daily":"users earning cashback daily",
+    "invest_in_the_stock":"Invest in the stock",
+    "start_earning":"Start Earning"
+  },
+  "testimonials":{
+"title":"Our Top Rated Investor Review",
+"sub":"Hear from customers like you who purchased small business Investor",
+"rated":"Rated 4.5/ 5",
+"number_of_review":"Based on 561 reviews",
+"testimonial_title1":"Excellent Returns & Great Support!",
+"testimonial_content1":"Most established players in the field have been around for a while, and the industry is desperate the next real product innovation. Our priority at GivBux: The perfect user experience for consumers, business owners, and charities.",
+"testimonial_title2":"Reliable & Transparent",
+"testimonial_content2":"I appreciate the transparency and professionalism. A great choice for both beginners and experienced investors!",
+"testimonial_title3":"Fast and Reliable!",
+"testimonial_content3":"Incredibly fast and reliable service! They responded immediately and got our company insured the same day – business protection, just like that!",
+"testimonial_title4":"Couldn’t have found a better agency!",
+"testimonial_content4":"Excellent service, quick response times! Highly professional and technologically adept."
+  },
+  "cta_icons":{
+    "download_app":"Download App ➔",
+    "invest_in_givbux":"Invest in Giv Bux ➔",
+    "join_whatsapp":"Join WhatsApp ➔"
+  },
+  "cta_download":{
+    "title":"Enjoy with Friends",
+    "sub":"Download the FREE GivBux Super App in minutes.",
+    "get_in_on":"GET IT ON",
+    "google_play":"Google Play",
+    "download_on_the":"Download on the",
+    "app_store":"App Store"
+  },
+  "footer":{
+    "sub":"GivBux is building a more connected future our unique Super App. ",
+    "get_it_on":"GET IT ON",
+    "google_play":"Google Play",
+    "download_on_the":"Download on the",
+    "app_store":"App Store",
+    "download_the_app":"Download the app",
+    "contact_us":"Contact Us"
+  },
+  "news":{
+   "title"   :"Recent News & Articles",
+   "sub":"GivBux is more than just an app. It’s a  movement to encourage empathy, kindness, and compassion to make our  world a better place.",
+    "read_more":"Read More"
+  },
+  "common":{
+    "givbux_investor_hub":"Givbux Investor Hub",
+    "join_whatsapp":"Join Whatsapp",
+    "offer_ends_in":"Offer ends in"
+  }
+}

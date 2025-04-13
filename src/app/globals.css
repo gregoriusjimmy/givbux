@@ -1,0 +1,134 @@
+@import "tailwindcss";
+
+:root {
+  --background-500: #ffffff;
+  --background-900: #222222;
+
+  --foreground-400: #222222;
+  --foreground-500: #000000;
+
+  --do-gray-500: transparent;
+  --gray-accent-500: #f0f0f0;
+
+  --gray-500: #666666;
+  --gray-600: #323232;
+
+  --custom-black-400: #333333;
+  --custom-black-500: #222222;
+  --custom-black-600: #1a1a1a;
+  --custom-black-700: #1e1e1e;
+
+  --custom-yellow-500: #ffe900;
+  --custom-green-500: #35c74b;
+
+  --inverted-gray-500: #cccccc;
+
+  --primary-200: #f2ebf8;
+  --primary-400: #8944ef;
+  --primary-500: #773dcd;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background-500: #000000;
+
+    --foreground-400: #ffffff;
+    --foreground-500: #ffffff;
+
+    --do-gray-500: #595959;
+
+    --gray-500: #666666;
+
+    --inverted-gray-500: #ffffff;
+
+    --custom-black-400: #333333;
+    --custom-black-500: #222222;
+    --custom-black-600: #1a1a1a;
+    --custom-black-700: #1e1e1e;
+
+    --custom-yellow-500: #ffe900;
+
+    --custom-green-500: #35c74b;
+
+    --gray-accent-500: #0b0b0b;
+
+    --primary-200: #f2ebf8;
+    --primary-400: #8944ef;
+    --primary-500: #773dcd;
+  }
+}
+
+@theme {
+  --color-background-500: var(--background-500);
+  --color-background-900: var(--background-900);
+
+  --color-foreground-400: var(--foreground-400);
+  --color-foreground-500: var(--foreground-500);
+
+  --color-gray-accent-500: var(--gray-accent-500);
+
+  --color-do-gray-500: var(--do-gray-500);
+
+  --color-gray-500: var(--gray-500);
+
+  --color-inverted-gray-500: var(--inverted-gray-500);
+
+  --color-custom-black-400: var(--custom-black-400);
+  --color-custom-black-500: var(--custom-black-500);
+  --color-custom-black-600: var(--custom-black-600);
+  --color-custom-black-700: var(--custom-black-700);
+
+  --color-custom-yellow-500: var(--custom-yellow-500);
+
+  --color-custom-green-500: var(--custom-green-500);
+
+  --color-primary-200: var(--primary-200);
+  --color-primary-400: var(--primary-400);
+  --color-primary-500: var(--primary-500);
+
+  --spacing-4\.5: 1.125rem;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: "Nunito Sans", Helvetica, sans-serif;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    font-size: 12px;
+  }
+  @media (min-width: 1024px) {
+    html {
+      font-size: 12px;
+    }
+  }
+  @media (min-width: 1536px) {
+    html {
+      font-size: 14px;
+    }
+  }
+}
+
+@layer components {
+  .layout {
+    /* 1100px */
+    max-width: 68.75rem;
+    @apply mx-auto w-[90%] md:w-[85%];
+  }
+
+  /* Adjust to 1200px on large screens */
+  @media (min-width: 1024px) {
+    .layout {
+      max-width: 150rem;
+    }
+  }
+  /* Adjust to 1400px on extra-large screens */
+  /* @media (min-width: 1024px) {
+    .layout {
+      max-width: 87.5rem;
+    }
+  } */
+}
