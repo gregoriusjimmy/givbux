@@ -113,7 +113,16 @@
    "sub":"GivBux is more than just an app. It’s a  movement to encourage empathy, kindness, and compassion to make our  world a better place.",
     "read_more":"Read More"
   },
+  "intro_popup":{
+    "p1":"take a look at the app",
+    "p2":"before You invest"
+  },
   "common":{
+    "get_it_on":"GET IT ON",
+    "google_play":"Google Play",
+    "download_on_the":"Download on the",
+    "app_store":"App Store",
+    "download_app":"Download App",
     "givbux_investor_hub":"Givbux Investor Hub",
     "join_whatsapp":"Join Whatsapp",
     "offer_ends_in":"Offer ends in"

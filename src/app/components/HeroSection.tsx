@@ -57,15 +57,17 @@ const HeroSection = () => {
                 <p className="mr-8 uppercase font-extrabold text-2xl text-white max-w-[20rem]">
                   {t("take_a_look_at_the_app")}
                 </p>
-                <Image
+              </div>
+              <div className="flex items-center">
+              <JoinWAButton />
+              <Image
                   alt="qr code"
                   src="/images/givbux-qr.desktop.webp"
-                  className="w-[7rem] h-auto"
+                  className="w-[7rem] h-auto ml-9"
                   width={112}
                   height={131}
                 />
-              </div>
-              <JoinWAButton />
+                </div>
             </div>
             <div id="form-desktop" className="w-[40%]">
               <Form className="w-full mb-[4rem]" />
@@ -89,14 +91,15 @@ const HeroSection = () => {
             <p className=" text-white font-bold text-2xl text-center max-w-[20rem]">
               {t("take_a_look_at_the_app")}
             </p>
-            <Image
+          </div>
+          <JoinWAButton />
+          <Image
+          className="mt-5"
               alt="qr code"
               src="/images/givbux-qr.desktop.webp"
               width={84}
               height={96}
             />
-          </div>
-          <JoinWAButton />
           <div id="form-mobile" />
         </div>
       </div>
